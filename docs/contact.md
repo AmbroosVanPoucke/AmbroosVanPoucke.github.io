@@ -1,5 +1,5 @@
 layout: page
 title: "Contact"
-parmalink: /about/contact
+parmalink: /about/contact/
 
 test
