@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My profile"
+date:   2025-03-12 10:50:45 +0100
+categories: jekyll update
+---
+
+I am Ambroos Van Poucke, a researcher at the [URC research group](https://urc.ugent.be/author/ambroos-van-poucke/) at Ghent University. My work focuses on precision agriculture, remote sensing, and machine learning for weed detection using high-resolution UAV imagery.
